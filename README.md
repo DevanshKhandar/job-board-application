@@ -23,6 +23,3 @@ Running this single command regenerates `cleaned_applications.csv`, `chart_q3_pa
 2. **Standardised 9 `work_mode` values** (`On-site` → `on_site`, `Hybrid` → `hybrid`, `Remote` → `remote`).
 3. **Handled 15 missing `source` values** by keeping them in the dataset for Questions 2 and 3, while excluding them from named source rankings in Question 1.
 4. **Verified funnel and date integrity:** all dates fall between `2026-07-01` and `2026-09-30`, with zero stage-order contradictions. Flagged 11 `steps_done = 0` applications that were still shortlisted (3 hired) as a tracking anomaly.
-
-## Tool Use Disclosure (edit before submitting)
-An AI assistant helped write `analysis.py`, design the chart layout, and draft `manager_note.md`. **[Before submitting, note what you reviewed, verified, or modified yourself.]**
