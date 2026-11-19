@@ -11,10 +11,3 @@ Cleaning the July–September 2026 file removed 6 exact duplicates and standardi
 Recommendation for next month: Send automated 7-day reply nudges to unpaid employers and display each listing's typical response time.
 
 Data caveats: Eleven 0-step applicants were shortlisted (3 hired), suggesting a step-tracking bug; role-by-source samples are small (64 hires total, 1 in Finance); and some late-September blanks may still be pending.
-
----
-
-*Word count: 202 words.*
-
-### Tool Use Disclosure (edit before submitting)
-An AI assistant helped draft the data-cleaning audit, Python analysis script, chart styling, and initial wording of this note. **[Before submitting, update this sentence to state what you personally verified, edited, or changed.]**
